@@ -23,8 +23,8 @@
   ],
   "accessWidener": "proxvc.accesswidener",
   "depends": {
-    "minecraft": "~7.1",
+    "minecraft": "^7.2-beta",
     "fabricloader": ">=0.15.5",
-    "halplibe": ">=3.5.4"
+    "halplibe": ">=4.0.1"
   }
 }
